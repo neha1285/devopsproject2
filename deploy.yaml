@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: mehar221/proj2:latest
+        image: nehadokerhub/proj2:latest
         ports:
         - containerPort: 80
